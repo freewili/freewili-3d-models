@@ -21,6 +21,7 @@ Welcome to the FREE-WILi 3D Models repository! This repository contains 3D model
 
 We provide firmware updates for both the main and display components. You can download the latest firmware updates from our GitHub repository:
 
-- [Firmware Update Page](https://docs.freewili.com/freewili-firmware-update/)
+- [Download Firmware Files](https://github.com/freewili/freewili-firmware)
+- [Firmware Update Instructions](https://docs.freewili.com/freewili-firmware-update/)
 
 For detailed instructions on how to update your firmware, please refer to the linked page.
