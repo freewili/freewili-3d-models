@@ -10,7 +10,7 @@ Welcome to the FREE-WILi 3D Models repository! This repository contains 3D model
     - `FreeWili2-Mount-Template.step` - STEP file of the FREE-WILi 2 mount template.
     - `FreeWili2-Mount-Template.stl` - STL file of the FREE-WILi 2 mount template, for 3D printing a test fixture.
     - `README.md` - Key dimensions and usage notes.
-  - `orcacodule/`
+  - `OGOrcaModules/`
     - `OrcaModule_Maestro-3d-body.step` - STEP file for the Orca Module Maestro 3D body.
     - `OrcaModule_Monstro-3d-body.pdf` - PDF document detailing the Orca Module Monstro 3D body.
   - `WhaleTailBadge/`
